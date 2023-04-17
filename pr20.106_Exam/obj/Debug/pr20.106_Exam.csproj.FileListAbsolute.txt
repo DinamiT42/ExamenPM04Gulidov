@@ -1,0 +1,14 @@
+G:\pm04 wpf\pr20.106_Exam\pr20.106_Exam\bin\Debug\pr20.106_Exam.exe.config
+G:\pm04 wpf\pr20.106_Exam\pr20.106_Exam\bin\Debug\pr20.106_Exam.exe
+G:\pm04 wpf\pr20.106_Exam\pr20.106_Exam\bin\Debug\pr20.106_Exam.pdb
+G:\pm04 wpf\pr20.106_Exam\pr20.106_Exam\obj\Debug\MainWindow.g.cs
+G:\pm04 wpf\pr20.106_Exam\pr20.106_Exam\obj\Debug\App.g.cs
+G:\pm04 wpf\pr20.106_Exam\pr20.106_Exam\obj\Debug\pr20.106_Exam_MarkupCompile.cache
+G:\pm04 wpf\pr20.106_Exam\pr20.106_Exam\obj\Debug\pr20.106_Exam_MarkupCompile.lref
+G:\pm04 wpf\pr20.106_Exam\pr20.106_Exam\obj\Debug\MainWindow.baml
+G:\pm04 wpf\pr20.106_Exam\pr20.106_Exam\obj\Debug\pr20.106_Exam.g.resources
+G:\pm04 wpf\pr20.106_Exam\pr20.106_Exam\obj\Debug\pr20._106_Exam.Properties.Resources.resources
+G:\pm04 wpf\pr20.106_Exam\pr20.106_Exam\obj\Debug\pr20.106_Exam.csproj.GenerateResource.cache
+G:\pm04 wpf\pr20.106_Exam\pr20.106_Exam\obj\Debug\pr20.106_Exam.csproj.CoreCompileInputs.cache
+G:\pm04 wpf\pr20.106_Exam\pr20.106_Exam\obj\Debug\pr20.106_Exam.exe
+G:\pm04 wpf\pr20.106_Exam\pr20.106_Exam\obj\Debug\pr20.106_Exam.pdb

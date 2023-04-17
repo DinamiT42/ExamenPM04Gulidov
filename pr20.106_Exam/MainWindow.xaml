@@ -1,0 +1,19 @@
+﻿<Window x:Class="pr20._106_Exam.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:pr20._106_Exam"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBlock Text="Организация" Margin="62,50,604,344"/>
+        <TextBox HorizontalAlignment="Left" Name="txtboxOrganiz" Margin="62,80,0,0" TextWrapping="Wrap" Text=""  VerticalAlignment="Top" Width="229" Height="28" TextChanged="textBox_TextChanged"/>
+        <TextBlock HorizontalAlignment="Left" Name="textBlockOrganiz" Margin="304,80,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="291" Height="28" FontSize="14"/>
+        <TextBox HorizontalAlignment="Left" Name="textBoxminus" Margin="63,150,0,0"   TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="228" Height="28"  PreviewTextInput="textBoxminus_PreviewTextInput"/>
+        <TextBlock Text="Номер заказа" Margin="62,120,604,274"/>
+        <TextBlock Text="Название позиции" Margin="62,190,604,204"/>
+        <TextBox HorizontalAlignment="Left" Name="txtboxPoz" Margin="62,215,0,0" TextWrapping="Wrap" Text=""  VerticalAlignment="Top" Width="229" Height="28" TextChanged="txtboxPoz_TextChanged"/>
+        <TextBlock HorizontalAlignment="Left" Name="textBlockPoz" Margin="304,215,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="291" Height="28" FontSize="14"/>
+    </Grid>
+</Window>
